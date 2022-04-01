@@ -11,3 +11,4 @@ bash /www/server/panel/script/rememory.sh
 /etc/init.d/mysqld start
 fi
 ```
+![image]( https://files.catbox.moe/y8lofp.jpg)
