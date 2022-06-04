@@ -16,6 +16,11 @@ echo '127.0.0.1 bt.cn' >>/etc/hosts
 ```
 rm -f /www/server/panel/data/bind.pl
 ```
+宝塔面板卸载命令   
+```
+wget http://download.bt.cn/install/bt-uninstall.sh
+sh bt-uninstall.sh
+```
 # 宝塔面板数据库进程守护
 登陆宝塔面板后台 – 计划任务  
 任务类型：Shell脚本  
@@ -30,3 +35,4 @@ bash /www/server/panel/script/rememory.sh
 fi
 ```
 ![image](https://i.postimg.cc/NMcMrRCb/y8lofp.jpg)
+
