@@ -5,7 +5,7 @@ curl -sSO http://download.bt.cn/install/install_panel.sh && bash install_panel.s
 ```
 降级到宝塔7.7版本
 ```
-wget http://download.bt.cn/install/update/LinuxPanel-7.7.0.zip
+wget https://xiaoyao01.com/bt/LinuxPanel-7.4.3.zip
 unzip LinuxPanel-*
 cd panel
 bash update.sh
