@@ -1,4 +1,13 @@
 # 新版宝塔面板安装&去除手机强制绑定（降级到宝塔7.7版本）
+wget工具   
+Ubuntu\Debian   
+```
+apt-get install wget
+```
+centos   
+```
+apt-get install wget
+```
 宝塔面板安装命令   
 ```
 curl -sSO http://download.bt.cn/install/install_panel.sh && bash install_panel.sh
