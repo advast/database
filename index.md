@@ -11,23 +11,27 @@ apt-get install wget
 ## 
 Centos 安装命令：专业版
 ```
-yum install -y wget && wget -O install.sh http://download.yu.al/install/install_6.0.sh && sh install.sh
+yum install -y wget && wget -O install.sh http://v7.hostcli.com/install/install_6.0.sh && sh install.sh
 ```
 Ubuntu Deepin 安装命令：专业版
 ```
-wget -O install.sh http://download.yu.al/install/install-ubuntu_6.0.sh && sudo bash install.sh
+wget -O install.sh http://v7.hostcli.com/install/install-ubuntu_6.0.sh && sudo bash install.sh
 ```
 Debian 安装命令：专业版
 ```
-wget -O install.sh http://download.yu.al/install/install-ubuntu_6.0.sh && bash install.sh
+wget -O install.sh http://v7.hostcli.com/install/install-ubuntu_6.0.sh && bash install.sh
 ```
 Fedora 安装命令：专业版
 ```
-wget -O install.sh http://download.yu.al/install/install_6.0.sh && bash install.sh
+wget -O install.sh http://v7.hostcli.com/install/install_6.0.sh && bash install.sh
 ```
-Linux 面板 7.7.0 升级专业版命令： 专业版
+Linux 宝塔官方面板 升级到 7.6.0纯净版
 ```
-curl http://download.yu.al/install/update6.sh|bash
+curl http://v7.hostcli.com/install/update6.sh|bash
+```
+Linux 宝塔非官方面板 升级到 7.6.0纯净版
+```
+curl http://v7.hostcli.com/install/update6.sh|bash
 ```
 宝塔面板卸载命令   
 ```
