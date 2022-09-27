@@ -1,4 +1,4 @@
-# 宝塔面板开心版
+# 2022宝塔 Linux 面板V7.7.0 稳定纪念版含企业版+专业版
 ## wget工具   
 Ubuntu\Debian   
 ```
@@ -8,28 +8,38 @@ centos
 ```
 apt-get install wget
 ```
-## 
-Centos 安装命令：专业版
+
+## 专业版安装命令
+Centos
 ```
-yum install -y wget && wget -O install.sh http://v7.hostcli.com/install/install_6.0.sh && sh install.sh
+yum install -y wget && wget -O install.sh http://download.bt.sy/install/install_6.0.sh && sh install.sh
 ```
-Ubuntu Deepin 安装命令：专业版
+
+Ubuntu Deepin
 ```
-wget -O install.sh http://v7.hostcli.com/install/install-ubuntu_6.0.sh && sudo bash install.sh
+wget -O install.sh http://download.bt.sy/install/install-ubuntu_6.0.sh && sudo bash install.sh
 ```
-Debian 安装命令：专业版
+
+Debian
 ```
-wget -O install.sh http://v7.hostcli.com/install/install-ubuntu_6.0.sh && bash install.sh
+wget -O install.sh http://download.bt.sy/install/install-ubuntu_6.0.sh && bash install.sh
 ```
+
 Fedora 安装命令：专业版
 ```
-wget -O install.sh http://v7.hostcli.com/install/install_6.0.sh && bash install.sh
+wget -O install.sh http://download.bt.sy/install/install_6.0.sh && bash install.sh
 ```
-Linux 宝塔官方面板 升级到 7.6.0纯净版
+
+Linux 面板 7.7.0 升级专业版命令
+```
+curl http://download.bt.cn/install/update6.sh|bash
+```
+
+Linux 宝塔官方面板 升级到 7.6.0纯净版（未测试）
 ```
 curl http://v7.hostcli.com/install/update6.sh|bash
 ```
-Linux 宝塔非官方面板 升级到 7.6.0纯净版
+Linux 宝塔非官方面板 升级到 7.6.0纯净版（未测试）
 ```
 curl http://v7.hostcli.com/install/update6.sh|bash
 ```
