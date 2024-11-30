@@ -61,5 +61,5 @@ bash /www/server/panel/script/rememory.sh
 /etc/init.d/mysqld start
 fi
 ```
-![image](https://i.postimg.cc/NMcMrRCb/y8lofp.jpg)
+
 
